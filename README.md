@@ -1,4 +1,4 @@
-# Compra-Venta
+# NAZADEX
 
 A Crypto Currency Trading Platform
 
@@ -12,9 +12,7 @@ having any fear of losing anything.
 
 ---
 
-# Screenshots
 
-![alt text](https://github.com/Compra-Venta/compraVenta-frontend/blob/master/public/assets/images/learnPage/dashboard.png?raw=true)
 
 ---
 
@@ -42,10 +40,7 @@ https://github.com/Super-Dev-Team/Trading-Bot/assets/167324311/711c24c2-48c7-481
     https://nodejs.org/dist/v16.20.2/node-v16.20.2-x64.msi
 ```
 
-### Clone to your local repo
 
-```
-    git clone https://github.com/Compra-Venta/compraVenta-frontend.git
 ```
 
 ### Install dependencies
