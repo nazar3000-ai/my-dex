@@ -18,9 +18,7 @@ having any fear of losing anything.
 
 # Auto Installation
 
-```
-    This project require Node.js 16
-```
+
 
 ```
     Double click the setup.bat file(It will install Node.js and node modules)
@@ -30,15 +28,12 @@ having any fear of losing anything.
     After installation, Double click the start.bat file
 ```
 
-https://github.com/Super-Dev-Team/Trading-Bot/assets/167324311/711c24c2-48c7-481b-b234-1748022c6b4c
+
 
 # Manual Installation
 
 ### Download Node.js installer and install
 
-```
-    https://nodejs.org/dist/v16.20.2/node-v16.20.2-x64.msi
-```
 
 
 ```
